@@ -1,0 +1,4 @@
+
+# Machine-learning training checkpoints
+**/checkpoint-*/
+*.safetensors
