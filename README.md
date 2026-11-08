@@ -41,3 +41,4 @@ Activate the virtual environment
 
 
 ## Generative AI usage
+AI tool was used for stylistic improvements to the code, debugging assistance, and support with generating printed outputs and visualisations. The code itself was written entirely by the group members. All experiments, result analyses, and conclusions were conducted and reviewed by the group.
