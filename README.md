@@ -4,7 +4,7 @@
 
 ## Project Description
 Our project is concerned with the problem of classifying news articles based on their titles and abstracts
-into one of the following categories: Business, Sports, World, and Sci-Tech. As our baseline, we will use
+into one of the following categories: Business, Sports, World, and Sci/Tech. As our baseline, we will use
 the Support Vector Machine (SVM) architecture. We chose SVM because they can handle sparse, high-
 dimensional text data in classification tasks. Then, we will train a Long Short-Term Memory (LSTM)
 neural network as our second model. Lastly, we will fine-tune a BERT transformer on our text data. We
